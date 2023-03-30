@@ -2,3 +2,12 @@ body {
   height: 100vh;
   font-family: 'Roboto', sans-serif;
 }
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: auto; height: 250px;
+}
