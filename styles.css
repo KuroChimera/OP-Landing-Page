@@ -2,8 +2,12 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-.header {
+.hero-header {
   display: flex;
+  padding-left: 100px;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  background-color: #1F2937;
   justify-content: space-between;
 }
 
@@ -13,6 +17,7 @@ a {
 
 ul {
   display: flex;
+  gap: 16px;
   list-style: none;
 }
 
@@ -23,4 +28,9 @@ img {
 .left, .right {
   display: flex;
   align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+  color: #F9FAF8;
 }
