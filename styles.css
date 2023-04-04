@@ -4,6 +4,7 @@ body {
 
 .hero-header {
   display: flex;
+  padding: 0 150px 150px;
   background-color: #1F2937;
   justify-content: space-between;
   align-items: center;
