@@ -9,7 +9,12 @@ body {
   align-items: center;
 }
 
+.container {
+  flex-wrap: wrap;
+}
+
 a {
+  color: #E5E7EB;
   text-decoration: none;
 }
 
@@ -30,5 +35,4 @@ img {
 
 .links {
   font-size: 18px;
-  color: #E5E7EB;
 }
