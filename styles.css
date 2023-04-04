@@ -2,6 +2,11 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
 a {
   text-decoration: none;
 }
@@ -13,4 +18,9 @@ ul {
 
 img {
   width: 400px; height: 250px;
+}
+
+.left, .right {
+  display: flex;
+  align-items: center;
 }
