@@ -15,14 +15,39 @@ body {
   align-items: center;
 }
 
+.logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
 .hero {
   display: flex;
   align-items: center;
 }
 
+h1 {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+}
+
+p, .links, a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.image {
+  display: flex;
+  justify-content: end;
+}
+
 img {
-  width: 30%;
+  width: 50%;
   height: auto;
+}
+
+button {
+  background-color: #3882f6;
 }
 
 a {
