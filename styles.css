@@ -47,8 +47,12 @@ img {
 }
 
 button {
+  color: #F9FAF8;
+  font-family: inherit;
+  padding: 3px 16px;
   background-color: #3882f6;
-  border-radius: ;
+  border-radius: 6px;
+  border: none;
 }
 
 a {
