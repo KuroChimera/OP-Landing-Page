@@ -4,18 +4,19 @@ body {
 }
 
 .container {
+  padding: 8px 100px 90px;
   background-color: #1F2937;
 }
 
 .header {
   display: flex;
+  margin-bottom: 60px;
   justify-content: space-between;
   align-items: center;
 }
 
 .hero {
   display: flex;
-  justify-content: space-between;
   align-items: center;
 }
 
