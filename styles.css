@@ -3,6 +3,8 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/* First container */
+
 .container {
   padding: 8px 100px 90px;
   background-color: #1F2937;
@@ -64,4 +66,22 @@ ul {
   justify-content: center;
   gap: 16px;
   list-style: none;
+}
+
+/* Second container */
+
+.container2 {
+  display: flex;
+  align-items: center;
+  padding: 8px 150px 120px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  padding: 16px 150px;
+}
+
+.info {
+  max-width: 300px;
 }
