@@ -117,3 +117,8 @@ ul {
 
 /* Fourth container */
 
+.banner {
+  background-color: #3882f6;
+  max-width: 950px;
+}
+
