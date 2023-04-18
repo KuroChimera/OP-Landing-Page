@@ -151,3 +151,12 @@ h2 {
 .sign-up-text {
   margin-top: 0;
 }
+
+/* footer */
+
+.footer {
+  background-color: #1F2937;
+  color: #F9FAF8;
+  text-align: center;
+  padding: 40px;
+}
