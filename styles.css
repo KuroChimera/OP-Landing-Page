@@ -117,3 +117,37 @@ ul {
 
 /* Fourth container */
 
+.container4 {
+  display: flex;
+  justify-content: center;
+  padding: 80px;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1000px;
+  background-color: #3882f6;
+  border-radius: 6px;
+  padding: 12px;
+  color: #F9FAF8;
+}
+
+.button {
+  border: 3px solid #F9FAF8;
+  border-radius: 6px;
+  margin-right: 80px;
+}
+
+.cta-text {
+  padding-left: 80px;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+.sign-up-text {
+  margin-top: 0;
+}
